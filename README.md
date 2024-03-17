@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 # Usage
 1. Run the `images.py` module to apply modifications to images included in pokedex source directory and write them out under a different name.
-2. Run the JPGtoPNGconverter.py module to convert all JPG images found in the directory given as first argument on the cmd line to PNG images into the directory given as second argument on the cmd line. If the destination directory does not exist, it will be created.
+2. Run the `JPGtoPNGconverter.py` module to convert all JPG images found in the directory given as first argument on the cmd line to PNG images into the directory given as second argument on the cmd line. If the destination directory does not exist, it will be created.
 
 ## Examples
 ```shell
